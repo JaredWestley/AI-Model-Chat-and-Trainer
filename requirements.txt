@@ -1,0 +1,19 @@
+# Core deep learning - CUDA 12.1 build for RTX 4070
+torch==2.3.1
+torchvision==0.18.1
+torchaudio==2.3.1
+
+# Tokenizer
+tokenizers==0.19.1
+transformers==4.42.4   # for GPT-2 tokenizer bootstrap
+
+# Dataset loading (HuggingFace)
+datasets==2.20.0
+huggingface-hub==0.23.4
+
+# Web UI
+gradio==4.37.1
+
+# Utilities
+numpy>=2.0.0
+tqdm==4.66.4
