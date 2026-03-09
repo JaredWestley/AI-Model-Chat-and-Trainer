@@ -2,6 +2,12 @@
 
 A custom transformer language model built from scratch in Python, with chain-of-thought reasoning, trained on general + code + reasoning datasets.
 
+## Images
+<img width="705" height="278" alt="image" src="https://github.com/user-attachments/assets/5b1c633f-2ef0-41b9-8e8d-951fb68f625a" />
+<img width="694" height="341" alt="image" src="https://github.com/user-attachments/assets/ce4a63ee-c35d-4047-bade-23ea17aad382" />
+<img width="2558" height="1279" alt="image" src="https://github.com/user-attachments/assets/cf7ee1df-fdfe-4421-9b10-bdd255bdbd05" />
+
+
 ## System Requirements I've optimised for
 - **GPU**: RTX 4070 12GB
 - **RAM**: 56GB
